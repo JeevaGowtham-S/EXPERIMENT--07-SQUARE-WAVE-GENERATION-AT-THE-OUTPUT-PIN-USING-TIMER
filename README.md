@@ -215,15 +215,19 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![image](https://github.com/user-attachments/assets/ce92b5d8-3c9a-42da-b44b-49a003e43e0b)
 
+
 ![image](https://github.com/user-attachments/assets/2378b928-1a5e-41f7-a6ed-9779b049226f)
 
+
 ![image](https://github.com/user-attachments/assets/0026b326-c9ce-4a86-ae68-43cd48aaf1d7)
+
 
 ![image](https://github.com/user-attachments/assets/84573641-20b8-46c3-b047-5fae99fd8301)
 
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ 
 ![image](https://github.com/user-attachments/assets/32d1515e-b45a-458c-91e3-75cde7bc6243)
 
 
